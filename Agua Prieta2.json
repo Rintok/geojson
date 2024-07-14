@@ -1,0 +1,4 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.5219916,31.3260934,0]},"properties":{"name":"Epicentro A","styleUrl":"#icon-1899-0288D1-nodesc","icon-scale":1,"icon-offset":[32,64],"icon-offset-units":["pixels","insetPixels"],"icon":"images/icon-1.png"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.5516186,31.3217016,0]},"properties":{"name":"Epicentro B","styleUrl":"#icon-1899-E65100-nodesc","icon-scale":1,"icon-offset":[32,64],"icon-offset-units":["pixels","insetPixels"],"icon":"images/icon-2.png"}}
+]}
